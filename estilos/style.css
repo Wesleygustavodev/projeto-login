@@ -131,11 +131,15 @@ form > a.botao {
     color: #49a09d;
 }
 
+
+
 form > a.botao:hover {
     background-color: #1b5352;
     color: white;
 }
 
 form > a.botao > span {
-    font-size: 1em;
+    font-size: 1.8em;
+    margin-left: 5px;
 }
+
